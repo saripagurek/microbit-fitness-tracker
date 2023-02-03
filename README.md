@@ -1,5 +1,6 @@
 
-![Musical Fitness Tracker](https://github.com/[saripagurek]/[microbit-fitness-tracker]/blob/[main]/microbit.jpg?raw=true)
+
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/saripagurek/microbit-fitness-tracker/blob/master/microbit.jpg) "Logo Title Text 1")
 
 
 > Open this page at [https://saripagurek.github.io/microbit-fitness-tracker/](https://saripagurek.github.io/microbit-fitness-tracker/)
