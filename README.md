@@ -1,4 +1,5 @@
-[embed]https://github.com/saripagurek/microbit-fitness-tracker/blob/master/MusicalFitnessTracker.pdf[/embed]
+
+![Musical Fitness Tracker](https://github.com/[saripagurek]/[microbit-fitness-tracker]/blob/[main]/microbit.jpg?raw=true)
 
 
 > Open this page at [https://saripagurek.github.io/microbit-fitness-tracker/](https://saripagurek.github.io/microbit-fitness-tracker/)
